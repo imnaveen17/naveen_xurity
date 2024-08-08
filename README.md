@@ -2,6 +2,15 @@
 
 ## CRUD Web Application with React, Material-UI, Express, and MongoDB
 
+## Table of Contents
+Introduction
+Features
+Technologies Used
+Getting Started
+Prerequisites
+Installation
+Running the Application
+
 ## Introduction
 
 This is a full-stack CRUD web application built with React for the frontend and Express with MongoDB for the backend. The application features user authentication using JSON Web Tokens (JWT), user registration, and a user list page.

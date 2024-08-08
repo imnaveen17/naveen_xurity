@@ -3,13 +3,13 @@
 ## CRUD Web Application with React, Material-UI, Express, and MongoDB
 
 ## Table of Contents
-Introduction
-Features
-Technologies Used
-Getting Started
-Prerequisites
-Installation
-Running the Application
+* Introduction
+* Features
+* Technologies Used
+* Getting Started
+* Prerequisites
+* Installation
+* Running the Application
 
 ## Introduction
 

@@ -9,7 +9,9 @@ This is a full-stack CRUD web application built with React for the frontend and 
 ## Features
 
 User Registration: Users can register by providing a username,email id and password.
+
 User Login: Users can log in using their credentials, with JWT-based authentication.
+
 User List Page: Displays a list of all registered users, fetched from the backend.
 
 ## Technologies Used

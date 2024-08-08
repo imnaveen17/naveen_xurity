@@ -67,6 +67,7 @@ cd client
 2.**Install Dependencies**
 
 npm install
+
 npm install @mui/material @emotion/react @emotion/styled (Install Material-UI (MUI):)
 
 3.**Configure Environment Variables**

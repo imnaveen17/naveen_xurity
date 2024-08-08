@@ -17,18 +17,18 @@ This is a full-stack CRUD web application built with React for the frontend and 
 
 ## Features
 
-User Registration: Users can register by providing a username,email id and password.
+* User Registration: Users can register by providing a username,email id and password.
 
-User Login: Users can log in using their credentials, with JWT-based authentication.
+* User Login: Users can log in using their credentials, with JWT-based authentication.
 
-User List Page: Displays a list of all registered users, fetched from the backend.
+* User List Page: Displays a list of all registered users, fetched from the backend.
 
 ## Technologies Used
 
-Frontend: React, Material-UI
-Backend: Express, MongoDB
-Authentication: JSON Web Tokens (JWT)
-Password Security: Bcrypt
+* Frontend: React, Material-UI
+* Backend: Express, MongoDB
+* Authentication: JSON Web Tokens (JWT)
+* Password Security: Bcrypt
 
 ## Getting Started
 
@@ -60,8 +60,8 @@ Create a .env file in the backend directory with the following content:
 MONGODB_URI=mongodb://localhost:27017/your-database-name
 JWT_SECRET=/your-database-name
 
-Replace your-database-name with the name of your MongoDB database.
-Replace your_jwt_secret with a strong secret key used to sign JWT tokens.
+* Replace your-database-name with the name of your MongoDB database.
+* Replace your_jwt_secret with a strong secret key used to sign JWT tokens.
 
 5.**Start the Backend Server**
 
@@ -95,8 +95,8 @@ The application will run on http://localhost:3000.
 
 ## Notes
 
-Database Connection: Ensure MongoDB is running locally or adjust the MONGO_URI if using a remote database like MongoDB Atlas.
+* Database Connection: Ensure MongoDB is running locally or adjust the MONGO_URI if using a remote database like MongoDB Atlas.
 
-Port Conflicts: Ensure that ports 3000 (frontend) and 5000 (backend) are available. If they are in use, you may need to modify the port numbers in your environment variables and application settings.
+* Port Conflicts: Ensure that ports 3000 (frontend) and 5000 (backend) are available. If they are in use, you may need to modify the port numbers in your environment variables and application settings.
 
-JWT Secret: Make sure the JWT_SECRET in your .env file is a strong, unique string to ensure secure token signing.
+* JWT Secret: Make sure the JWT_SECRET in your .env file is a strong, unique string to ensure secure token signing.
